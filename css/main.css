@@ -45,11 +45,14 @@ section{
 }
 
 .email{
-  background-color: lightgrey;
   border: solid 1px black;
 }
 
-.unread-mail{
+.read-email{
+  background-color: lightgrey;
+}
+
+.unread-email{
   background-color: white;
 }
 
